@@ -1,0 +1,12 @@
+.imgBtn {
+  background-color: transparent;
+  border: none;
+}
+
+.image {
+  height: 150px;
+  width: 150px;
+}
+.btnImgContainer {
+  margin: 10px;
+}

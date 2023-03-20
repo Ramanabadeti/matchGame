@@ -1,0 +1,16 @@
+.tab {
+  margin: 10px;
+}
+
+.selectedTab {
+  color: yellowgreen;
+  font-size: larger;
+  background-color: transparent;
+  border: none;
+}
+
+.non-selectedTab {
+  color: #fff;
+  background-color: transparent;
+  border: none;
+}
